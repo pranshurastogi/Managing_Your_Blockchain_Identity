@@ -1,0 +1,3 @@
+Wallet Address : 14YAH8e17yzSUvqoyEQyyyMV7swdTfwrSV
+Message to be signed: 14YAH8e17yzSUvqoyEQyyyMV7swdTfwrSV: Udacity rocks!
+Signature: H0z+qUDpluOF112wAI79tIrQTOpKZKV1zpdrSvQkSikPeR86rmh3lpQW5EJ2leihGICuuPJ2MqDKAjqEcWDYQA4=
